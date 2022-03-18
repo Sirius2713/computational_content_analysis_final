@@ -1,0 +1,5 @@
+Read data!
+Start modeling!
+/home/wenqian/.local/lib/python3.8/site-packages/gensim/models/ldaseqmodel.py:297: RuntimeWarning: divide by zero encountered in double_scalars
+  convergence = np.fabs((bound - old_bound) / old_bound)
+slurmstepd: error: *** JOB 3517505 ON midway3-0094 CANCELLED AT 2022-03-10T19:21:14 DUE TO TIME LIMIT ***
